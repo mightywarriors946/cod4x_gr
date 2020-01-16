@@ -1,2 +1,4 @@
 # cod4x_gr
-Gameranger Plugin  
+Gameranger Plugin (RE)
+
+Credits : Voltron
