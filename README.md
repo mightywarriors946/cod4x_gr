@@ -28,6 +28,6 @@ Find More Details at
 ###About this repo
 This repo doesn't contain complete or original sources of gameranger plugin. But it has enough to understand its working.
 
-#####Disclamer
+#####Disclaimer
 Use this plugin at your own Risk. And it is not recommended to use your personal Gameranger Account ID and password as these datas are transmitted to a third party server, 
 So please create a new Gameranger Account. You can use software called "Gameranger Account switcher" for creating a new gameranger account
